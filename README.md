@@ -19,7 +19,7 @@ yarn build
 ```
 yarn lint
 ```
-### Link FireBase
+### Link Firebase
 https://vue2-homework.web.app/
 
 ### Customize configuration
