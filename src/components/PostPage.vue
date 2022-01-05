@@ -12,7 +12,7 @@
         class="comments__item" 
         v-for="commentList in commentsList" 
         :key="commentList.id"
-      >
+       >
         <h3>{{ commentList.name }}</h3>
         <span>{{ commentList.email }}</span>
         <p>{{ formatedCommentText(commentList.body) }}</p>
